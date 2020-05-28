@@ -9,7 +9,7 @@ russias_war_dvd_inlay_vol1_vol2_opened_in_neroCoverDesigner.jpg and .psd
 russias_war_dvd_inlay_vol3_vol4_opened_in_neroCoverDesigner.jpg and .psd  
 russias_war_dvd_inlay_vol5_opened_in_neroCoverDesigner.jpg and .psd
 
-The actual Nero CoverDesigner files (.ncd) are included:  
+The Nero CoverDesigner files (.ncd) are included:  
 russias_war_dvd_inlay_vol1_vol2.ncd  
 russias_war_dvd_inlay_vol3_vol4.ncd  
 russias_war_dvd_inlay_vol5.ncd
